@@ -10,17 +10,14 @@ const About = () => {
         </div>
         <div>
           <div className="font-bold sm:text-[1.875rem] text-[1.5rem] mb-5">
-            We provide the <br /> best{" "}
-            <span className="text-Teal">online courses</span>
+            Kami menyediakan <br /> {" "}
+            <span className="text-Teal">kursus online terbaik.</span>
           </div>
           <p className="text-sm text-gray leading-7 mb-4">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Repudiandae, totam earum. Minus deleniti repellat id! Ratione quia
-            eum, explicabo quos eos magni vel corporis voluptatibus, inventore
-            doloremque aliquam pariatur recusandae.
+          Platform pembelajaran online inovatif dan interaktif. Dengan rangkaian materi pelajaran komprehensif, fitur interaktif, serta dukungan pembelajaran berkelanjutan, kami menjadi pilihan utama pelajar yang mencari pengalaman belajar terkini. Temukan lebih lanjut di website kami dan bergabunglah dengan komunitas belajar online yang dinamis!
           </p>
           <button className="py-3 px-6 text-sm border border-solid border-gray rounded-lg font-bold">
-            Know More
+            Pelajari lebih lanjut
           </button>
         </div>
       </div>

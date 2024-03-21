@@ -27,21 +27,20 @@ const Home = () => {
         <div>
           <div className="font-bold text-xs text-Teal mb-4">
             {" "}
-            your e-learning partner
+            tempat bimbel terbaik untuk anak anda
           </div>
           <div className="sm:text-[2.5rem] text-[1.825rem] font-bold">
-            This is <br /> the new way <br /> to learn online
+            Mulai <br /> belajar dari Nol, <br /> Menuju kesuksesan! 
           </div>
           <p className="text-sm leading-7 text-gray max-w-sm">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero
-            officia sit vitae quo, eum similique?
+            Pilihan terbaik untuk siswa SD/MI yang ingin meraih potensi maksimal. Kurikulum terstruktur dan metode pembelajaran inovatif menciptakan suasana belajar yang kreatif dan interaktif. Bergabunglah dengan Smart Academy Course untuk pengalaman belajar yang mendalam dan mempersiapkan masa depan cerah untuk anak Anda.
           </p>
           <div className="mt-6">
             <button className="px-6 py-3 font-bold text-white bg-Teal rounded-lg mr-4 text-sm">
-              Get Started
+              Join Sekarang!
             </button>
             <button className="px-6 py-3 font-bold border border-solid border-gray rounded-lg text-sm">
-              Discover
+              Lihat trailer
             </button>
           </div>
         </div>
@@ -51,9 +50,9 @@ const Home = () => {
       </div>
       <div>
         <p className="text-center text-xl">
-          We collaborate with{" "}
+            Kami berkolaborasi dengan{" "}
           <span className="text-Teal">
-            100+ leading universities ans companies
+            50+ Universitas ternama di Indonesia
           </span>
         </p>
         <motion.div
